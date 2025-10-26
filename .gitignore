@@ -19,3 +19,8 @@
 !**/Content/
 !**/Source/
 !*.uproject
+
+# Ignore VS solution + VS config
+UE5_NPC_AudioAgent/*.sln
+UE5_NPC_AudioAgent/.vsconfig
+
